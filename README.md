@@ -25,10 +25,10 @@ A fully functional **Kanban-style task management system** built using **HTML, C
 
 📂 Project Structure
   /Kanban-App
-    index.html
-    style.css
-    script.js
-    assets/
+    | index.html
+    | style.css
+    | script.js
+    | assets/
 
   
 ---
